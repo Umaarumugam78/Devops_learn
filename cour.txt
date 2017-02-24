@@ -1,0 +1,61 @@
+Mindmajix
+
+Build and release engineer :
+
+Course Curriculum : http://mindmajix.com/build- and-release-engineer-training
+
+Duration :  25 Days
+
+Fee :  $500 USD   
+
+Mode of Training : Live Instructor Led Online training (Through Gotomeeting.com)
+
+
+
+
+scmgalaxy
+
+
+Training Name - DevOps Course and Certification | Build & Release Course and Certification
+
+Agenda of Training – http://www. scmgalaxy.com/courses/agenda/ devops/devops-training-course- online.html
+
+Dates & Time 
+Weekdays & Weekends
+
+Mode - Online (Gotomeeting), Live and Interactive
+
+Duration – 30 Days (Weekdays only) 
+
+fee- 25,000INR
+
+
+
+
+WEZVA
+
+* Release Engineering
+ * Linux Essentials
+ * SCM Methodologies & Git
+ * Build Management Process using Maven
+ * Continuous Integration using Jenkins
+ * Release Management
+ * Developer workflow & best practices
+
+Duration for the above default modules : 25 hours
+
+Timings : 1.5 hours / daily
+
+Fees: 22,000 INR or $350
+
+Meantime you can go through the following Demo which would give you an insight about the Build & Release engineering :
+
+https://drive.google.com/open?id=0B2EcEEVPokikZTNIb2xFejdlc2c
+
+
+
+
+
+
+
+http://www.brainmeasures.com/test_n_certifications.aspx
